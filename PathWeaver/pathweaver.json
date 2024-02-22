@@ -1,0 +1,9 @@
+{
+  "lengthUnit": "Inch",
+  "exportUnit": "Same as Project",
+  "maxVelocity": 10.0,
+  "maxAcceleration": 1.0,
+  "trackWidth": 29.0,
+  "gameName": "Crescendo",
+  "outputDir": ""
+}
